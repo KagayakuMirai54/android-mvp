@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVP Simple</string>
+    <string name="SOAL">Buatlah dari struktur kode MVP di praktikum sebelumnya dengan menambahkan rumus luas dan persegi!
+        Boleh menambahkan UI untuk EditText, TextView dan Button.
+
+Rumus Keliling Persegi : 4 x sisi
+
+Rumus Luas Persegi : sisi x sisi
+</string>
+</resources>
